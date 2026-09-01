@@ -1,0 +1,49 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Bb]uild/
+/[Bb]uilds/
+
+# IDE generated files
+/.vs/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# Unity/OS temporary files
+*.tmp
+*.log
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.blend1
+*.blend1.meta
+mono_crash.*
+sysinfo.txt
+
+# Generated Unity data
+/[Aa]ssets/Plugins/Editor/JetBrains*
+/[Aa]ssets/[Ss]ceneDependencyCache*
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/ServerData/
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+

@@ -32,4 +32,3 @@ Unity Hub에서 이 저장소의 루트 폴더를 프로젝트로 추가한 뒤 
 
 Unity 생성 폴더(`Library`, `Temp`, `Logs`, `UserSettings`)와 IDE 생성 파일은 커밋하지 않습니다. 에셋을 추가하거나 이동할 때 Unity가 생성한 `.meta` 파일을 반드시 함께 커밋하십시오.
 
-
